@@ -1,0 +1,6 @@
+"code","name","primary"
+"BYR","Bruble","true"
+"EUR","European money",false
+USD,"Dollar","false"
+CNY,"Chinese money","false"
+

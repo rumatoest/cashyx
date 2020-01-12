@@ -1,0 +1,4 @@
+"id","date","time","location","currency","amount","flow","account""group","category","info","meta"
+"J-01","2020-01-01",,,"BYR","21.1","OUT","cash",,"drugs","Aspirin",
+"J-10","2020-01-01",,,"USD","100","OUT","jpm",,"living","Rent",
+"J-02","2020-01-02",,,"CYN","55","OUT","chib",,"meal","Asian food",
