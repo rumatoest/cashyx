@@ -1,0 +1,15 @@
+[package]
+name = "zstore"
+version = "0.0.1"
+authors = ["Rumato Estorsky"]
+edition = "2018"
+
+[dependencies]
+zip = {version="0.5.4", default-features = false, features = ["deflate"]}
+
+[dev-dependencies]
+hamcrest2 = "*"
+rand = "0.7"
+
+[build-dependencies]
+zip = {version="0.5.4", default-features = false, features = ["deflate"]}
